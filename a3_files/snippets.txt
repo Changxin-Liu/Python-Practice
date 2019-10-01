@@ -1,0 +1,73 @@
+############################################################
+#                        Task 2.2                          #
+############################################################
+# 2x2 Crafting Recipes
+CRAFTING_RECIPES_2x2 = [
+    (
+        (
+            (None, 'wood'),
+            (None, 'wood')
+        ),
+        Stack(create_item('stick'), 4)
+    )
+]
+
+############################################################
+#                        Task 2.3                          #
+############################################################
+# Another 2x2 Recipe
+CRAFTING_RECIPES_2x2 = [
+    ...
+    (
+        (
+            ('wood', 'wood'),
+            ('wood', 'wood')
+        ),
+        Stack(create_item('crafting_table'), 1)
+    ),
+    ...
+]
+
+# 3x3 Crafting Recipes
+CRAFTING_RECIPES_3x3 = {
+    (
+        (
+            (None, None, None),
+            (None, 'wood', None),
+            (None, 'wood', None)
+        ),
+        Stack(create_item('stick'), 16)
+    ),
+    (
+        (
+            ('wood', 'wood', 'wood'),
+            (None, 'stick', None),
+            (None, 'stick', None)
+        ),
+        Stack(create_item('pickaxe', 'wood'), 1)
+    ),
+    (
+        (
+            ('wood', 'wood', None),
+            ('wood', 'stick', None),
+            (None, 'stick', None)
+        ),
+        Stack(create_item('axe', 'wood'), 1)
+    ),
+    (
+        (
+            (None, 'wood', None),
+            (None, 'stick', None),
+            (None, 'stick', None)
+        ),
+        Stack(create_item('shovel', 'wood'), 1)
+    ),
+    (
+        (
+            (None, 'stone', None),
+            (None, 'stone', None),
+            (None, 'stick', None)
+        ),
+        Stack(create_item('sword', 'wood'), 1)
+    )
+}
