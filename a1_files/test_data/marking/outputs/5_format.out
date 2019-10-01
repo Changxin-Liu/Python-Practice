@@ -1,0 +1,81 @@
+Welcome to Travel Inspiration!
+
+What is your name? CSSE1001
+
+Hi, CSSE1001!
+
+Which continent would you like to travel to?
+  1) Asia
+  2) Africa
+  3) North America
+  4) South America
+  5) Europe
+  6) Oceania
+  7) Antarctica
+> 7
+
+What is money to you?
+  $$$) No object
+  $$) Spendable, so long as I get value from doing so
+  $) Extremely important; I want to spend as little as possible
+> $
+
+How much crime is acceptable when you travel?
+  1) Low
+  2) Average
+  3) High
+> 10
+
+I'm sorry, but 10 is not a valid choice. Please try again.
+
+How much crime is acceptable when you travel?
+  1) Low
+  2) Average
+  3) High
+> 1
+
+Will you be travelling with children?
+  1) Yes
+  2) No
+> 2
+
+Which season do you plan to travel in?
+  1) Spring
+  2) Summer
+  3) Autumn
+  4) Winter
+> 2
+
+What climate do you prefer?
+  1) Cold
+  2) Cool
+  3) Moderate
+  4) Warm
+  5) Hot
+> 5
+
+Now we would like to ask you some questions about your interests, on a scale of -5 to 5. -5 indicates strong dislike, whereas 5 indicates strong interest, and 0 indicates indifference.
+
+How much do you like sports? (-5 to 5)
+> 0
+
+How much do you like wildlife? (-5 to 5)
+> 0
+
+How much do you like nature? (-5 to 5)
+> 0
+
+How much do you like historical sites? (-5 to 5)
+> 0
+
+How much do you like fine dining? (-5 to 5)
+> 0
+
+How much do you like adventure activities? (-5 to 5)
+> 0
+
+How much do you like the beach? (-5 to 5)
+> 0
+
+Thank you for answering all our questions. Your next travel destination is:
+

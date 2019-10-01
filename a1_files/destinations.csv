@@ -1,0 +1,51 @@
+name,cost,crime,kids,climate,continent,spring,summer,autumn,winter,wildlife,sports,adventure,cuisine,nature,historical,beach
+Albania,$$,average,False,warm,europe,3.2,2.92,3.01,2.19,2,4,1,1,0,0,3
+Algeria,$,high,False,hot,africa,3,3.46,3.27,2.19,0,4,5,0,1,5,4
+Andorra,$,low,False,moderate,africa,3.4,2.04,2.45,2.91,5,1,5,1,5,4,5
+Angola,$$$,high,False,moderate,africa,2.06,2.76,2.18,3.4,0,4,4,2,3,5,5
+Antarctica,$,low,False,cold,antarctica,3.37,2.46,2.28,3.27,5,4,2,0,2,4,1
+Antigua,$$,average,True,warm,south america,2.11,3.24,2.93,2.73,5,4,3,1,1,4,4
+"Buenos Aires, Argentina",$$,low,True,moderate,north america,2.12,2.49,3.41,2.2,3,4,5,4,4,3,1
+Armenia,$,average,False,warm,europe,3.19,2.43,3.16,2.32,3,3,2,4,4,3,0
+Aruba,$$,low,True,warm,south america,3.13,2.08,2.51,2.15,0,5,5,1,1,0,4
+"Melbourne, Australia",$$,low,True,moderate,oceania,2.02,2.21,2.91,2.7,0,3,3,2,0,3,3
+"Sydney, Australia",$$$,average,False,moderate,oceania,2.37,2.97,2.72,2.39,4,4,1,0,5,5,0
+"Outback, Australia",$,low,False,warm,oceania,2.01,2.45,3.09,3.49,2,1,1,3,5,2,2
+"Tasmania, Australia",$$,average,False,cool,oceania,3.42,2.1,2.02,3.21,5,5,3,4,1,5,5
+"Vienna, Austria",$$$,low,True,warm,europe,2.03,2.04,2.48,2.14,1,1,0,2,3,2,1
+Azerbaijan,$$,average,False,warm,asia,2.57,3.15,2.9,3.44,1,1,2,2,4,4,2
+Bahamas,$$$,low,True,warm,north america,3.16,2.52,2.32,2.37,5,2,5,4,5,3,4
+Barbados,$$$,average,True,warm,south america,3.23,2.94,3.18,2.36,5,5,5,0,2,1,0
+Belarus,$$,high,False,warm,europe,3.4,2.81,3.38,3.29,0,4,3,4,1,2,1
+Belgium,$$$,low,True,warm,europe,3.04,2.52,3.02,3.35,3,5,2,1,5,4,1
+Belize,$$,average,False,warm,south america,2.03,2.03,3.23,2.4,0,4,0,5,3,1,2
+Bermuda,$$$,low,True,warm,north america,3.07,3.2,2.76,2.84,3,1,2,4,0,2,0
+Bolivia,$,high,False,moderate,south america,2.17,2.79,3.06,2.94,3,3,4,5,3,5,1
+Bosnia and Herzegovina,$,average,False,warm,europe,2.18,3.2,3.42,2.32,1,5,4,5,1,5,5
+"Rio De Janeiro, Brazil",$$,high,False,warm,south america,2.55,2.97,2.3,3.14,2,2,2,2,0,4,4
+"Sao Paulo, Brazil",$$$,average,False,warm,south america,2.68,2.78,3.45,3.06,2,3,3,1,4,2,1
+Bulgaria,$$,average,False,warm,europe,2.81,2.9,3.03,2.81,2,1,1,2,3,1,2
+Burma,$,low,False,hot,asia,2.03,2.95,2.33,2.85,3,3,5,1,5,4,3
+"Vancouver, Canada",$$$,low,True,moderate,north america,2.3,3.47,2.02,3.26,0,3,2,0,5,2,2
+"Montreal, Canada",$$$,low,True,moderate,north america,3.14,2.77,2.67,2.89,0,4,5,4,1,2,0
+"Nova Scotia, Canada",$$,low,True,cool,north america,2.18,3.47,3.4,2.7,2,5,0,1,0,5,0
+"Ottawa, Canada",$$,low,True,cool,north america,2.98,2.98,3.09,3.16,0,4,3,1,4,1,5
+"Toronto, Canada",$$$,average,True,moderate,north america,3.31,2.23,2.23,2.73,2,0,1,2,4,1,1
+Chad,$$$,high,False,hot,africa,2.16,2.36,3.01,2.54,1,0,0,2,2,2,4
+Chile,$$,average,False,moderate,south america,2.73,2.29,3.27,3.21,2,5,2,5,2,3,1
+"Hong Kong, China",$$$,low,True,warm,asia,3.18,3.38,2.8,2.33,4,1,2,2,4,0,4
+"Shanghai, China",$$$,average,True,warm,asia,3.37,2.35,2.04,3.14,4,1,5,5,2,4,1
+"Beijing, China",$$$,low,True,cool,asia,2.23,3.05,3.34,2.85,5,5,2,3,0,2,4
+"Macau, China",$$,average,False,warm,asia,2.95,3.44,2.22,2.7,2,0,0,0,0,0,1
+Colombia,$,high,False,moderate,south america,3.34,2.97,2.42,2.23,3,5,2,4,4,3,2
+Congo,$,high,False,warm,africa,2.42,3.31,2.94,3.16,1,5,0,5,3,0,3
+Costa Rica,$$,low,False,warm,south america,2.91,3.45,3.16,2.15,3,0,3,4,3,1,2
+Cote d'Ivoire (Ivory Coast),$$$,high,False,hot,africa,2.3,2.6,2.05,2.25,2,5,3,5,0,4,1
+Croatia,$$,low,False,warm,europe,2.24,2.08,2.98,2.24,4,5,4,4,4,0,3
+Cuba,$$$,average,False,warm,north america,2.89,2.87,2.31,2.72,3,0,3,4,1,4,2
+"Prague, Czech Republic",$$,low,True,moderate,europe,3.01,2.36,3.14,2.65,1,4,2,4,1,3,3
+"Copenhagen, Denmark",$$$,low,True,cool,europe,2.75,2.38,3.28,2.22,1,4,1,2,3,0,2
+"Faroe Islands, Denmark",$$$,low,False,cold,europe,2.83,3.12,2.84,2.99,4,1,2,1,3,3,2
+Dominican Republic,$$,average,False,warm,south america,2.38,2.83,2.83,2.75,1,1,2,4,0,2,4
+Ecuador,$,average,False,warm,south america,3.16,3.07,2.02,3.14,4,0,5,2,2,4,0
+Egypt,$$,average,False,hot,africa,2.01,2.07,3.11,3.44,3,5,4,5,4,1,5
